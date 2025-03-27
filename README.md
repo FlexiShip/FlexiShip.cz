@@ -1,9 +1,3 @@
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { CheckCircle } from "lucide-react";
-
-export default function Home() {
-  return (
     <div className="min-h-screen bg-gray-100 p-6">
       <div className="max-w-4xl mx-auto text-center">
         <h1 className="text-4xl font-bold text-gray-900 mb-4">Profesionální balení a expedice pro e-shopy</h1>
